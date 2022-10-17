@@ -5,7 +5,7 @@ This all are the fully wordpress site, in this have different types of sites lik
 if you are new and making WP sites.
 Note : some of sites may be expired.
 
-[scriberedox.com]{http://scriberedox.com}
+[scriberedox]{http://scriberedox.com}
 {http://broochteal.com}
 {http://sarungmerah.com}
 {http://saibait.com}
